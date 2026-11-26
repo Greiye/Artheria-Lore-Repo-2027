@@ -2,6 +2,10 @@
 
 The public lore of **Artheria**: the lore book and session write-ups. The game ([Artheria.ES.3D.Lore.Game](https://github.com/Greiye/Artheria.ES.3D.Lore.Game)) and its wiki are built from it.
 
+> **Repository purpose:** This is a lore-only repository. Do not convert it into an application, website, wiki implementation, or game project. Keep additions as Markdown lore or supporting place and scene art.
+>
+> **External app contract:** Treat this repository as a read-only source for other applications and projects. Applications may read or import lore, images, and references, but must not write to, rewrite, generate files in, or commit changes back to this repository. Store derived data, caches, generated indexes, and application-specific edits in the consuming project.
+
 | Folder | What's in it |
 |---|---|
 | `book/` | *Tales of Artheria*: Part I (the World), Part II (Chronology), names appendix |
