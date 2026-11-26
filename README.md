@@ -15,4 +15,6 @@ The public lore of **Artheria**: the lore book and session write-ups. The game (
 
 ## Images
 
-The book refers to `images/imageN.webp`. Put them in `book/images/`. If images or video grow past a few hundred MB, move them to an object store (Cloudflare R2) and link them from there.
+Place and scene art lives in `images/<place>/` (e.g. `images/aralon/aralon-farmers-market-3200x1800.webp`). The game wiki embeds them from this repo's raw URLs.
+
+The book itself refers to `images/imageN.webp`. Those 65 images aren't in the repo yet; put them in `book/images/`. If images or video grow past a few hundred MB, move them to an object store (Cloudflare R2) and link them from there.
