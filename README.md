@@ -6,6 +6,8 @@ The public lore of **Artheria**: the lore book and session write-ups. The game (
 |---|---|
 | `book/` | *Tales of Artheria*: Part I (the World), Part II (Chronology), names appendix |
 | `sessions/` | Session novels and recaps, as markdown |
+| `stories/` | Standalone fiction set in Artheria (e.g. *Variegated*, the making of Dr. Podrigo) |
+| `images/` | Place and scene art, one folder per place |
 
 ## Rules
 
