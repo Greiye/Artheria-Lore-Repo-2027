@@ -4,6 +4,10 @@
 
 *A novel of Ranlean, 21 chapters. Aldos Podrigo is Unmorrowed: a boy with no mana in Ranlean, a city where mana is currency. At the Meridian Institute he finds a third language between magic and machinery, alchemy, and two friends, Bren Malric and Meli Salwen. It is the story of how the man the Kori tales know as Dr. Podrigo, the Rot Wizard, began.*
 
+*Lore: [Tales and Campaigns](../ARTHERIA.md#tales-and-campaigns) · see also [Kori: Vampiric Parasite](../ARTHERIA.md#kori-vampiric-parasite), [the Meridian Institute](../ARTHERIA.md#the-meridian-institute)*
+
+> **Note.** In the Kori tales, "Morrowed" and "Unmorrowed" turn into slurs after the Konnor Case. Here the word is already whispered about Aldos as a child.
+
 ## Chapter 1
 
 By the time Aldos Podrigo turned twelve, he’d already accepted the world wasn’t built for him. In Ranlean, mana was currency. It bought praise. Respect. Futures. And in that sense, Aldos was poor. Magic was expected here. Children levitated inkpots mid-sentence, stitched enchantments into their uniforms, and bent temperature with a flick of the wrist. Even the clocks ran on spellcraft. The air itself carried a faint charge, like the moment just after lightning—alive, expectant.

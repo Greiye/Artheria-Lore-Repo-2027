@@ -1,6 +1,6 @@
 # The Caerne's March, Act 1: The Telandor Savior
 
-*A rough novelisation of the sessions. Player handles removed.*
+*A rough novelisation of the sessions. Player handles removed.* · *Lore: [Tales and Campaigns](../ARTHERIA.md#tales-and-campaigns) · see also [The Caerne’s March](../ARTHERIA.md#the-caernes-march)*
 
 ## The First Summer
 

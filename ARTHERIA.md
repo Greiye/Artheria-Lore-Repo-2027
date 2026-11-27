@@ -1,14 +1,14 @@
 # Tales of Artheria
 
-*The public book of Artheria: world and chronology. The DM’s book is private and not in this repo.*
-*Compiled 2026-10-21; Drive additions merged 2026-10-28. Images live in `images/` beside this file.*
+*The master lore of Artheria: the shared world of a group of friends, and the canon every spin-off (games, stories, sessions) draws from. Edit this file to change canon. Other projects read it; they never write to it.*
+*Compiled 2026-10-21; Drive additions merged 2026-10-28; story lore added 2026-11-26. The DM’s book is private and not in this repo.*
 
 ## Contents
 
 - [How to read this book](#how-to-read-this-book)
-- [Part I: The World](#part-i-the-world) (safe to publish)
-- [Part II: Chronology](#part-ii-chronology) (safe to publish)
-- Part III: The DM’s Book is private and not in this repo.
+- [At a Glance](#at-a-glance): one summary per topic
+- [Part I: The World](#part-i-the-world)
+- [Part II: Chronology](#part-ii-chronology)
 - [Appendix: Names and their variants](#appendix-names-and-their-variants)
 
 ## How to read this book
@@ -37,8 +37,341 @@ Artheria’s history is told by many voices, and they don’t agree. Where they 
 | *Derby* | Ex-Azulan field medic and Tinkerwright | Brilliant and unstable. Trusts his trade’s legends. |
 | *Lay of Kavik’s Band* | A Ranlean bard’s ballad of Kavik’s adventuring years | Tragic. Claims heroes for Ranlean. |
 | *Travellers’ journals* | Argo, Eli, Yoshua, St. Gabriel, Veilo, Kori, Raq | First-hand, but drunk, hurt, or biased. |
+| *Variegated* | Jason Molina’s novel of Aldos Podrigo’s school years in Ranlean (lore by Michael Go) | Close to Aldos. Sympathetic to the Unmorrowed, hard on the Council. |
+| *The Caerne’s March* novel | A rough novelisation of the band’s first act | The band’s own voices, close to events. |
 
 Spelling also varies by speaker: court and common speech, orcish and human script. This book uses one canonical spelling, and the variants are listed in the appendix.
+
+# At a Glance
+
+One short summary per topic. The full entries follow in Part I and Part II.
+
+## World
+
+Artheria is a planet about the size of two Earths, split into **seven continents**, each a closed ecosystem. Only one is well known.
+
+| Continent | Land | Known for |
+|---|---|---|
+| **Silverpeak** | Tundra | Always frozen. Woolly beasts; a mountain that cuts through the fog. |
+| **Hymlie Principality** (Caerne) | Taiga / desert | The heart of the world. Richest source of magic; most literature. |
+| **Starhaven** | Irradiated swamp | Sealed by caustic fog. Sailors see millions of lights. One person ever came out. |
+| **Sylvena** | Grassland | A lost colony. Tales of beasts and strange humanoids. |
+| **Northern Emeris** | Deciduous forest | Giant metal golems; mechs of many power sources. |
+| **Central Emeris** | Rain forest | Source of necromancy. A colony was disbanded after a decade. |
+| **Southern Emeris** | Deciduous forest | Reclusive sentients with technology far beyond the Principality. |
+
+> ⚖ **Sources disagree.** Sailors call the home continent the **Hymlie Principality**, after a legendary prince who never became king because he never drank from the Godden Chalice. Scholars use its elder name, **Caerne**.
+
+> ⚖ **Sources disagree.** Natalie never visited Central Emeris and calls every fog-land "swamp". Sailors who saw it call it rain forest.
+
+**Professions**
+
+There are no "classes" in Artheria, only skills. Fighters are Soldiers or Savages; ranged fighters are Archers or **Crossbolters**. Paladins are "Soldiers of Faith"; clerics are "Divinists". **Tinkerwrights** work a thread of mana into ordinary objects.
+
+See also: [Places](#places), [History](#history).
+
+## Places
+
+All on Caerne (the Hymlie Principality) unless noted.
+
+### The Tria Prima
+
+Three allied settlements, the "Alchemical Romance": **Ranlean** (Mind, mercury), **Amethyst Peak** (Body, sulfur), **Aralon** (Soul, salt). They have never fought over resources.
+
+**Amethyst Peak**
+The City of Dragons, atop Artheria's tallest volcano. Founded by **Anarch** on the creed of *Lachesism*: strength comes from adversity. Ruled from **Castle Blackthorn** (obsidian and dragonglass) by the Bardic King, **Teofilo "Filo the Amoureux" Blackthorn**. Exports obsidian arms, sulfur (batteries for Ranlean) and meat. Home to dragon riders, the Church of Anarch, and Dragonestrians (horse-like dragons). Nearby: the town of **Dragonglass**, the Sulfur Caverns, and **Cinderplay Basin**, a plain of lava pools.
+
+> ⚖ **Sources disagree.** The Church of Anarch dates the founding "thousands of years ago, in the Ice". Talar the Human says Year 1000. The Ranlean sages say the "true city" begins after the thaw.
+
+**Ranlean**
+The town of arcanic development: electric streetlights, trolleys, a hospital, a police department (RPD) and a social-republic government. Holds the largest library on Caerne, with a planetarium at its heart. Honours **Vellichor**. Motto: *Information is your greatest tool.* Some corruption runs through the Darkwater family.
+
+**Aralon**
+A rainy farming town and haven for artists, with the Hanging Gardens and nearby salt flats. Honours **Petrichor**, god of agriculture. Its market has Granny Smith, Magister Greer's magical wares, and Father Padre's Chapel of the First. Motto: *A peaceful life is its own reward.*
+
+### Elsewhere
+
+- **The Ruined Library.** Once the **Library of the Wise**, founded by humans and halflings after they discovered electricity. Orcs burned it in the Human–Orc War. An artifact from the Noctavel Portal is said to remain inside.
+- **Black Bay.** Kingdom of King Deville and Amethyst Peak's rival ("We'll take land and sea"). Once tried to tame the sea beast Aquateras.
+- **Caspa.** The Floating City of Feathers; Owlkin territory.
+- **Virasana.** A settlement with no gates, fences or sense of ownership, living in harmony with nature.
+- **Sornes.** A dangerous desert waypoint with a large half-orc population and a lone sheriff. Raided by orcs and goblins.
+- **Nepenthe.** A once-radiant island, enslaved by the conquistador Arresters hunting the Seed of Thithonus.
+- **The Elven Capital.** Hidden; open only to full-blooded elves. Believed to be where the Travelers landed. Its mana source is the **Fairy Starship**.
+- **Straphan Forest.** Home of a forest spirit seen as a white deer.
+- **Senland.** Razed in the current era.
+- **Aevelon.** Where the Chalice that ended the Era of Ice is said to rest. Nobody has found it.
+
+Most races also keep their own monocultural cities: a City of Elves, of Humans, of Orcs, of Infernlings, and beastmen villages.
+
+## Peoples
+
+| Origin | People | In short |
+|---|---|---|
+| First World | **Beastmen** | Changelings fixed in animal form. Tribal, totem-worshipping, master tamers. |
+| First World | **Elves** | Descended from spirits. Innate magic, ~1000-year lives. |
+| Native | **Halflings** | Artheria's own people (gnomes, dwarves). Long-lived, forgiving, great cooks. |
+| Artheria | **Humans** | Round-eared elves born without magic. The most adaptable race. |
+| Artheria | **Orcs** | Humans corrupted by a failed Ashen Magic spell. |
+| Artheria | **Infernlings** | Children of the Scholar's pact with the Patron. |
+| Portals | **Portalites** | Emberkin, Lumari, Drakari, Titankin, Owlkin, Corvani and others. |
+| Lost | **Giants, Fairies, Changelings, Spirits** | Extinct, or nearly. |
+
+**Elves**
+Long-lived and proud; they hold grudges for centuries and call humans "inbred elves". They live beside a **mana source** and guard it. Their magic takes on the texture of where they grew up (sandy, leafy, icy). Subcultures: Wood, Dark, Capital/City, Tundra, Desert, Marine. An elf's life ends in **the Passing**: they turn intangible and fade.
+
+> ⚖ **Sources disagree.** The Elven archivists record ~1000 years. Halfling legends, awed, say "thousands".
+
+**Beastmen**
+Hunted after their ancient alliance with the giants, they retreated to the wilds. Each tribe resembles and worships its beast. Every four years the tribes compete for a war-cloak artifact.
+
+**Halflings**
+Once captives of beastmen and elves, they forgave with time. Bronze-age when the elves landed; co-discoverers of electricity with humans.
+
+**Humans**
+Can rarely cast alone, but cast together through faith. Four peoples: East Equator, West Equator, Mediterranean, Northern. Half-elves and half-orcs are the most stable mixes.
+
+> ⚖ **Sources disagree.** Natalie counts five human peoples, including Starhaven folk. Talar the Human counts four.
+
+**Orcs**
+Most are feral, but a noble bloodline keeps its intellect and leads. Known clans: House of Humies, Greyskins, Rockraiders, Bloodflags, Ochre Ogres, Steelmills. Their degenerating line is blamed for **goblins**.
+
+> ⚖ **Sources disagree.** Quimzy the Orc insists orcs carry elven blood too. Talar the Human says humans alone.
+
+**Infernlings**
+Horned, tailed, red-to-purple skin, highly resistant to fire. Every one descends from the **First Warlock**. Gifted casters; shunned by humans, attacked by orcs. *Leften* Infernlings embrace a pantheon and outsiders; *Denrite* Infernlings keep to one god and themselves.
+
+### Portalites
+Peoples who came through the portals opened by the Promise that Shattered the World. **Emberkin** are fire folk with orange hair and ashen skin who wear **Pyroveil** to contain their heat.
+
+### Lost races
+- **Giants.** Six-fingered, bark-skinned, warlike. Wiped out in the Frozen Struggle.
+- **Fairies.** Palm-sized, four-winged, brilliant casters. Faded after the crossing.
+- **Changelings.** The first sentients; shapeshifters.
+- **Spirits.** Beings of pure mana; ancestors of every race.
+
+> ⚖ **Sources disagree.** The elves declared giants extinct to mark their victory. King Breitling, Titankin, and a Frost Giant guarding a vault argue otherwise. Pallasite reports count ~50 changelings alive.
+
+## History
+
+### The First World
+1. **Titans of Creation.** Elven scripture says titans made the universe; the world may be one cell in a titan.
+2. **Celestial Conflict.** The titans warred for millennia. Their blood became the seas.
+3. **Titanic Spirits.** Spirits shaped the land. They are the ancestors of every race.
+4. **Changelings.** The first sentients: shapeshifters who could not change size.
+5. **Beastmen, Giants, Elves, Fairies.** Changelings settled into beasts; giants claimed titan descent; elves kept spirit magic; fairies used the magic around them.
+6. **The First War.** Giants fought beastmen; beastmen enslaved elves and fairies.
+7. **Pendragon.** An elf named Pendragon freed his people and became the first king. The **Elven-Fairy Collective** fought the **Beastman-Giant Aggregate** for ~800 years while pollution raised corrupted spirits.
+8. **Home Among the Stars.** The Collective fled the dying world by starship. The Aggregate followed, until only one ship was left: **the Ark**. The last pure spirits, the **Fey**, stowed away.
+
+### Artheria
+9. **Landing.** The Collective named the new world **Artheria** and met the **Halflings**. Decades later the giants and beastmen landed, and the Great War resumed.
+10. **Era of Ice** (Y −2000 to ~2000). Four thousand years of cold.
+11. **Frozen Struggle.** The races allied, destroyed the Ark, and wiped out the giants. Then everyone fought for food.
+12. **Search for the Chalice.** Explorers sought a godblood Chalice said to end the Ice.
+13. **The Humans.** Elves began bearing round-eared, magicless children and cast them out. With the halflings, humans discovered electricity and founded the **Library of the Wise**. The **Church of the First** began.
+14. **Birth of the Orcs.** Humans tried fairy **Ashen Magic** to regain elven power and made orcs instead. The orcs broke away and formed the **Orcish Confederation**.
+15. **The Promise that Shattered the World.** Orcs burned the Library of the Wise. A human **Scholar** of Pendragon's line summoned **the Patron** for warmth and power. Portals tore open, demons poured out, and the sky went grey. The war ended. Two stable portals remained: the **Emberkin** and the **Noctavel** portals. The Scholar became the **First Warlock**; his children were the first **Infernlings**. Necromancy entered the world.
+16. **The Ephemerals.** On Nepenthe, three Lumari slaves, **Anarch**, **Vellichor** and **Petrichor**, drank immortal sap and leapt from a cliff, reborn as immortals. Anarch later founded **Amethyst Peak** and tamed dragons there.
+
+> ⚖ **Sources disagree.** Talar the Human rounds the Ice to −2000…2000. Halfling grandmothers say the thaw came in **1980**.
+
+### The Iceless Frontier (~Y1980 →)
+17. Someone reportedly found the Chalice; the Ice ended. The races traded across Caerne. The **Tria Prima** formed and the medieval age began.
+18. The **Adventurer's Guild** formed. It still seeks the Chalice in **Aevelon**; no expedition to another continent has returned.
+19. **Return of War.** The orc bloodline degenerated and **goblins** appeared. The **Infernling–Orc War** began.
+
+### The Heroic Age (~Y2000 → today)
+- **Kazka Zamir**, Infernling son of the warlock **Kavik**, rises with his band, slays the Sea Serpent, and destroys the Scavenger Spear.
+- **The Breitling Kingdom** falls to Black Bay; **Teofilo** becomes acting king. He founds the **Jagged Edge Knights**.
+- **Scorched Earth.** Prince **Biliran** hunts his cousin **Lancia**, kills Sir Luka, and leaps into the Noctavel portal.
+- **Follower of the First** (Y3020). Eli, Argo, Yoshua and St. Gabriel cross Caerne, face the manarot plague, and find a ruined library and a **green hag**.
+- **The Kori arc.** In Ranlean, Dr. Podrigo's parasite plague births the **Rot Wizard**.
+- **Pallasite** (formerly the Azure Concord) hunts demons and plagues.
+- **Kazka and Raq.** A 38-year-old Kazka guards the young boxer Raq.
+
+> ⚖ **Sources disagree.** Natalie dates Kazka to **Y2000**. Gwanda and Pallasite records put him alive at 38 in the present, alongside the Y3020 events.
+
+### Today
+The House of Basalt is dissolved. St. Gabriel purified Ein and became a Cardinal. Malachi retired, and his daughter Natalie began writing *Tales of Artheria*. The Possessor Demon is back, and wolves multiply. Senland is razed. The Infernling–Orc War displaces both peoples.
+
+**Still unresolved:** Belial's town-taking weapon; the Noctavel artifact in the Ruined Library; dying portals that still spark; who Kavik and Kazka's patron really is; the Seed of Thithonus; the Chalice in Aevelon.
+
+## Gods and Faiths
+
+Some gods are willed into existence. Each rules a creature type.
+
+| Domain | God | Creatures |
+|---|---|---|
+| Life / Creation | Unknown (Church of the First) | Celestials |
+| Death / Destruction | — | Aberrations |
+| Corruption | (House of Basalt) | Fiends, monstrosities, undead |
+| Arcane arts | — | Elementals |
+| Technology / Industry | **Vellichor** | Constructs |
+| Agriculture | **Petrichor** | Fey |
+| Flora | — | Plants, oozes |
+| Fauna | The Straphan Forest Spirit (a white deer) | Beasts, giants |
+| Trickery | — | — |
+| War | **Anarch** | Humanoids, dragons |
+
+### Faiths
+- **Church of the First.** Worships **Ein**, a winged god who left his corrupt siblings and lived as a mortal man doing good. Symbols: golden wings, rings, sacred flame. The faithful heal with golden fire and cast magic together.
+- **House of Basalt.** Follows the twin goddesses **Haelith and Maelith**, betrayed by their brother **Eyan** and hidden in basalt cliffs. Creed: those who betray you are not to be trusted; craft your own safety.
+- **Church of Anarch.** Amethyst Peak's church of *Lachesism*. Keeps an archive from Anarch's time; wastes no part of a dragon.
+- **Vellichor** (*Ubuntism*, Ranlean) and **Petrichor** (*Chimayamism*, Aralon).
+- **Elven gods.** A small pantheon, one a trickster.
+
+> ⚖ **Sources disagree.** **Ein and Eyan are the same god.** The Church of the First tells his story as heroism; the House of Basalt tells it as betrayal.
+
+> ⚖ **Sources disagree.** Friar Birel's western sect calls Ein a demigod with a **blue** soul-flame. The mainstream Church says god, and **gold**.
+
+### The Patron
+A shapeshifting spirit from a realm of agony, summoned by **the Scholar** to save humanity in the Human–Orc War. The pact cursed the Scholar's bloodline, released a swarm of demons, and left two portals open. What became of the Patron is unknown. Its warlocks include the Scholar, **Kavik Zamir**, and later **Kazka**.
+
+## Magic
+
+Magic is in all things and still poorly understood. About **one in ten** can cast: elves most, then Infernlings, other races, humans, halflings, orcs. Overuse causes **mana burn**.
+
+### Where it comes from
+| Source | In short |
+|---|---|
+| Old Gods | Forgotten gods; power through flora, fauna and nature. Druids. |
+| New Gods | Named gods; power scales with followers. Clerics, paladins. |
+| Patrons | Lesser gods working through cults. Warlocks. |
+| Sorcerers | Power from within. |
+| Bloodwrights | Common folk given foreign mana by surgery or accident. |
+| Magic-sensitive | Cantrip-level at most. |
+| Non-magical | Scrolls and enchanted items only. |
+
+### What it looks like
+| Kind | Colour | An elf's description |
+|---|---|---|
+| Raw | White-blue, slightly cold | "A bard's catchy tune with no rhythm." |
+| Divine | White and yellow, warm | "A blanket and hot cocoa." |
+| Infernal | Red and orange, hot | "Holding a hot pan and striking with the anger." |
+| Necromantic | Purple and black | "Breathing dense fog. A sense of dread." |
+| Nature / fey | Green, brown, blue or clear | "Drying a duvet in the sun. Clean, and worth it." |
+
+Appearance also depends on the caster's **mentor** and **environment**. Elves can taste magic.
+
+### How strong
+Prestidigitation → Cantrip → I (mage armour) → II (invisibility) → III (call lightning) → IV (banishment) → V (scrying) → VI (walls of ice) → VII (teleport, resurrection) → VIII (earthquakes) → IX (meteors, stopped time) → **X (Wish)**.
+
+**Schools:** Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Transmutation, **Biomancy** (life), **Necromancy** (forbidden).
+**Components:** Somatic, Verbal, Material, Thought, Runes.
+
+### The Aether
+Artheria is a closed mana system: 100 points of aether circulate, never gained or lost. Entities rank from demi-god (1) to god (5). **Portals** are gateways made by entities who want their own dimension; they are temporary.
+
+### True Names
+Speaking a demon's true name counters its spells. A pact can bind the demon as much as the warlock.
+
+## Heroes and Villains
+
+### House Blackthorn (Amethyst Peak)
+- **Teofilo "Filo the Amoureux" Blackthorn.** The Bardic King. More lover than fighter; carries a dragonglass rapier.
+- **Saphira Maleys.** A dragon in human form; mother of Lance.
+- **Lance, the Dragon Knight** and **Valka Tessarion**, dragon rider. Killed by a court conspiracy.
+- **Lancia.** Their daughter, "Daughter of the Uncrowned King", sent to Noctavel Academy.
+- **Belial the Hellflame.** Emberkin son of Filo; holds a weapon that can take a town alone.
+- **Biliran the Scorched Earth Soldier.** Belial's Cinderkin son; vanished through the Noctavel portal.
+
+### The Zamirs
+- **Kavik Zamir.** Infernling warlock of the Patron. His band: Hans "Hands", Blue, Bones. Passed his pact to his son.
+- **Kazka Zamir.** Infernling paladin of Petrichor. Former band: Gruum, Jerry, Fumir. Slew the Sea Serpent.
+
+### The Band of the First Follower
+- **Elikaen (Eli).** Half-elf warlock of the fey **Bina**.
+- **Argo.** Gnome bard and monk.
+- **Yoshua.** Half-orc paladin on "the Path to Gains".
+- **St. Gabriel.** Human life cleric of the Church of the First.
+- **Malachi.** Ruin-seeker and artifact trader; **Natalie Bourbon's** father.
+
+**Ranlean**
+- **Kori.** A girl who cannot use magic, infected by a parasite.
+- **Raq.** Half-orc boxer and Kori's closest friend.
+- **Dr. Podrigo, the Rot Wizard.** Lives in a mushroom garden near Ranlean in a leather plague suit.
+- **The Darkwaters.** Wealthy Infernling heirs of the Legislator; keepers of the **Legislator's Gavel**.
+
+### The Caerne
+A medieval mercenary band, told by its own members: **Yarl** (captain), **Herald Anna**, **Kaelrith**, **Hawk**, **Onager**, **Iron-Tail**, **Dr. Derby**, **Jenna Flame Dancer**, **Gilda**. They found the **Telandor Savior** and disbanded.
+
+### Others
+- **Natalie Bourbon.** Explorer-cartographer, compiler of *Tales of Artheria*.
+- **Gwanda.** Centuries-old wood-elf guildmaster of the Adventurer's Guild.
+- **Lysra** and **Candor Nockcrest** of Pallasite.
+- **Sol and Lu Darak.** Owlkin brothers; Sol summons his brother's echo without knowing it.
+- **Leopold.** A handsome orc rancher in Sornes.
+- **King Deville** of Black Bay.
+- **Hogrypha.** A possessor demon that rides a rabbit.
+
+### Groups
+**Adventurer's Guild**, **Pallasite** (formerly the Azure Concord), **Jagged Edge Knights**, **Paladin-Barbarians**, **the Arresters**, **the Azul Empire** and **the Red Kingdoms**.
+
+## Tales and Campaigns
+
+The adventures played out at the table, written up as journals, recaps and session logs. Each is told by the people who were there, so expect gaps, grudges and tall tales.
+
+Novels set in Artheria, kept as their own files:
+
+- [The Caerne's March, Act 1: The Telandor Savior](sessions/The-Caernes-March-Act-1.md), a rough novelisation of the sessions
+- [Variegated](stories/Variegated.md) by Jason Molina, with lore by Michael Go: the making of Dr. Podrigo
+
+## Bestiary and Artifacts
+
+### Creatures
+- **Dragons.** Flying only by magic. The talking **Elder Dragons of Corvathe** were never truly tamed. Kinds include the winged **Blue Water Dragon** (the **Bakunawa**), acid-breathers, and white wyrmlings.
+- **The Grand Oculon.** A floating, fleshy aberration with one giant eye and many small ones.
+- **Goblins.** Three-foot green pests that steal and breed. Short-lived; said to be dying out.
+- **Hags.** The **Order of the Hags**: monstrosities born of curses and experiments.
+- **Webwraiths.** Elves corrupted by demons from the Promise.
+- **Hollows.** People whose souls were taken; empty vessels.
+- **Delvemaws.** Burrowing beasts Black Bay used to tunnel into the castle.
+- **The Sea Serpent.** Terrorised halfling coasts until Kazka slew it.
+- **Possessor demons.** Such as Hogrypha, who leads wolves.
+- **Robot lizards.** Found in the Straphan Forest.
+- **Desert walking catfish.** Amphibians that cross sand.
+
+> ⚖ **Sources disagree.** Goblins: failed orc births (human folk), cast-out runts (Quimzy the Orc), the Biomancer of Nier's soldiers (*Farm Beasts*), or a Mad Tinkerwright's work (Derby's teachers).
+
+### Artifacts
+- **Dragonglass.** A colourless crystal that takes colour in the wielder's hand. Worked only with dragon scale or bone; a blade takes a week, two dragons, and a secret family method. Arms the Jagged Edge Knights.
+- **The Chalice of the Gods.** Holds godblood; said to have ended the Era of Ice. Lost in **Aevelon**.
+- **The Seed of Thithonus.** Grants eternal life, but not youth.
+- **The Noctavel artifact.** Still somewhere in the Ruined Library.
+- **The Scavenger Spear.** A demonic weapon that made people gather parts to build its body. Destroyed by Kazka.
+- **The Telandor Savior.** A 10-foot titan knight frame of ancient elvish make, found in a goblin cave.
+- **The Legislator's Gavel.** An heirloom of the Darkwater family.
+- **The Sacred Flame.** An unending fire of the Church of the First.
+- **Pyroveil.** Emberkin cloth that reflects body heat.
+- **Orcish Sword** (vibrates near elves) and **Elven Ring** (wakes the soul of an object), found in a dryad's ruin.
+
+## Sources
+
+The lore is told by in-world narrators who don't agree. Where they clash, pages say **⚖ Sources disagree**. To change canon, promote a different source.
+
+| Source | Who | Leaning |
+|---|---|---|
+| Natalie Bourbon | Explorer-cartographer, Malachi's daughter, compiler | Romantic; collects tavern hearsay |
+| Talar the Human | Ranlean historian | Pro-human; tidy dates |
+| Quimzy the Orc | Orcish oral-historian | Anti-human. "Paper lies, scars don't." |
+| Anarch's Journals | Anarch's own writings | Self-mythologising |
+| Church of Anarch | Amethyst Peak clergy | Inflate Anarch and the Peak |
+| Royal Chronicle | Heralds of Castle Blackthorn | Pro-crown |
+| Black Bay Annals | Deville's scribes | Belittle Amethyst Peak |
+| Elven archivists | Keepers of the scriptures | Meticulous but proud |
+| Halfling legends | Halfling grandmothers | Warm, exaggerated, long memories |
+| Ranlean sages | Vellichor's scholars | Rationalist; Ranlean first |
+| Church of the First | Clergy of Ein | Ein the hero |
+| House of Basalt | Followers of Haelith and Maelith | Eyan the betrayer |
+| Scroll of Infernling Origin | Infernling keepers | Defends the Scholar |
+| Gwanda of the Guild | Wood-elf guildmaster | Reliable on recent centuries |
+| Pallasite | Research order | Clinical and secretive |
+| Ranlean newsprint | Freelance scribes | Sensational; garbles names |
+| The Caerne | The mercenary band | Close to events; gossip |
+| Derby | Ex-Azulan medic | Brilliant, unstable |
+| Lay of Kavik's Band | A Ranlean ballad | Tragic |
+| Travellers' journals | Argo, Eli, Yoshua, St. Gabriel, and others | First-hand but biased |
 
 # Part I: The World
 
@@ -656,6 +989,20 @@ Mercury used to make Lamps, Medical Supplies, Dental Supplies, Telescopes, Explo
 Sports Facility  
 Dragonchess Team. Always losing to Amethyst Peak Athletes in Wrestling.
 
+#### The Meridian Institute
+
+*From [*Variegated*](stories/Variegated.md).*
+
+The most prestigious school in Ranlean, where magic is expected of every child. In Ranlean, mana is currency: it buys praise, respect and futures. Students train in casting, illusion and the knightly arts (the Training division’s **Rune Knight** path). Knights spar in the **Rune Court**. The Institute’s old planetarium keeps a projector from Ranlean’s **hybrid era**, when mechanical systems were enhanced, not replaced, by magic.
+
+**The Celestial Array.** The Institute’s yearly show under the planetarium dome: mana-fed illusions of two comets, **Vellica** and **Thorne**, drawing toward one another. Older students build it, not just watch it. In Aldos Podrigo’s final year, a crack in the south refractor had been patched and hidden under an illusion. It failed mid-show. The Lead Illusionist, **Meli Salwen**, died holding a veil over the fault to shield the audience.
+
+**The Unmorrowed Research Laboratory.** Funded by the Council of Ranlean for Aldos Podrigo after the Array disaster. Aldos saw it as commendation without contrition.
+
+**Whisperglass Lake.** A lake of mercury that reflects frequencies rather than light.
+
+**Hearthfall.** A winter holiday kept at home, with garlands, candles, spice and fried dough.
+
 ### Aralon
 
 A small farming Town, Aralon is known to be the hub of creatives and artists, often in the Hanging Gardens. Thanks to the numerous salt flats close to the town, Aralon can provide everyone with quality food products to all neighboring settlements. Citizens are always wearing raincoats and hats in the event of sudden rain.
@@ -664,10 +1011,22 @@ A small farming Town, Aralon is known to be the hub of creatives and artists, of
 
 On the outskirts of town is a farmer’s market, where you can meet Granny Smith and her pets, Magic Greer and all his magical wares. Be sure to visit Father Padre who runs a Chapel of the First.
 
+![The farmers market on the outskirts of Aralon](images/aralon/aralon-farmers-market-3200x1800.webp)
+
+![Father Padre's Chapel of the First, Aralon](images/aralon/aralon-chapel-first-3200x1800.webp)
+
 Petrichor is a popular god of Agriculture in this part of the Hymlie Principality.
 
 Aralon’s Goal:  
 A Peaceful life is its own reward. Everyone has a right to it. Acknowledge it, cherish it, for when it is gone in the storm of life, it is all that you wish you had.
+
+**Aralon in pictures:** the Nackle bakery, the Zamir Estate, and the hot springs.
+
+![The Nackle, a bakery in Aralon](images/aralon/aralon-nackle-3200x1800.webp)
+
+![The Zamir Estate, Aralon](images/aralon/aralon-zamir-estate-3200x1800.webp)
+
+![The Aralon Hot Springs](images/aralon/aralon-hot-springs-3200x1800.webp)
 
 ![](images/image8.webp)
 
@@ -1142,6 +1501,8 @@ Humans for a time worshiped the same gods that the Elves did. Over time, the dei
 
 ### The Church of the First
 
+![Father Padre's Chapel of the First, Aralon](images/aralon/aralon-chapel-first-3200x1800.webp)
+
 9 Parts  
 Origin of the First  
 The Church of the First is a religion that can be traced to when humans were cast out from Elven society. It is believed that from a pantheon of Gods, there was **Ein,** the first. He was a winged creature that broke away from the corruption of his brothers and sisters. There was involvement of the Godsbath, thorns, wings and rings of protection. Gods of this pantheon must travel in pairs.
@@ -1370,6 +1731,8 @@ Kazka’s party was known throughout the band, before the death of half the team
 Other notable events in Kazka’s life is when he took down the **Sea Serpent** that was killing off the Halflings. He also destroyed a demonic weapon that took control of people, in order to create the perfect mechanical body for itself. It was known as the **Scavenger Spear**.
 
 Childhood: The son of a famous warlock known as Kavik Zamir. He grew up in Aralon, a quiet town his father had decided to retire in after his decorated career in adventuring. His father’s fortune and fame came from his amazing feats as a powerful warlock. He retired soon after the death of his team and settled down. After Kazka was born he aimed to help him become the next greatest warlock. His childhood was far from rough, but his father, unfortunately passed away after introducing him to his patron. This is when Kazka learned the true cost of his father’s quest for power.
+
+![The Zamir Estate, Aralon](images/aralon/aralon-zamir-estate-3200x1800.webp)
 
 When his father was young he had made a contract with his patron that he would exchange power for pain and suffering to those around him. Although he was a great adventurer with great intentions he was unaware of how this pain and suffering would manifest. His quest for fame and fortune had blinded him from all the pain and suffering he had inadvertently caused. Like, the death of his team.
 
@@ -2769,6 +3132,8 @@ The two break out. They watch Konnor take another life, the life of *Saint Micha
 Kori takes St Michael’s Necklace, the sign of the Church of the First. They follow Konnor to Aralon. A Salt Flats town.  
 They grab food at the Nackle.(NaCl). Known for its deserts (Amethyst Peak Lava cake, Ranlean Rhambutan).
 
+![The Nackle, a bakery in Aralon](images/aralon/aralon-nackle-3200x1800.webp)
+
 They stop a group, members of the church of the first. They accuse the two of killing St. Rafael. Kori charms the man, known to be St. Rafael.
 
 They go to the forest, where a fungus called Dhampicillin grows. There, the magic is too much for Kori. She fights Raq. Right when Raq is about to deal the final blow, St. Rafael flies in on wings.
@@ -2810,6 +3175,8 @@ Memories play of their childhood.
 24JA6: Finale  
 Law Court  
 Court case of The People of Ranlean vs. Dr. Podrigo. In the case they examine the death of Konnor, a religious member of the First Faith known as St. Michael, and the events that have transpired as of late.
+
+**Before the Rot Wizard:** how Aldos Podrigo became Dr. Podrigo is told in [*Variegated*](stories/Variegated.md).
 
 > ⚖ **Sources disagree.** *Ranlean scribes* garbled the docket: Konnor killed St. Michael, and Kori killed Konnor. Two deaths, not one.
 
@@ -4242,7 +4609,7 @@ Use of Gold.
 House of Basalt  
 ![](images/image49.webp)
 
-### Heroes and Villains
+### Heroes and Villains Roster
 
 Additional Characters  
 People and Groups that the party has met.
@@ -4376,6 +4743,30 @@ Raq is a Half-Orc woman, about 18 years old. She had met Kori in Ranlean Academy
 She was last seen with Kori, having lost the case of The People of Ranlean vs. Dr. Podrigo.
 
 > ⚖ **Sources disagree.** *Quimzy the Orc* counts 19 orc-years. Human scribes count 18. A *Ranlean Academy register* from her first year lists a 14–16-year-old orc girl: it was written years earlier, and the clerk didn’t note half-blood.
+
+People of Ranlean (from [*Variegated*](stories/Variegated.md))
+
+* Aldos Podrigo
+
+Unmorrowed: born with no mana, in a city where mana is everything. Grew up in his family’s **Podrigo Repair & Salvage Shop** in West Ranlean and studied at the Meridian Institute, where he found **alchemy**, “a grammar of matter itself”, working in salt, mercury and sulfur. He later becomes **Dr. Podrigo, the Rot Wizard** of the Kori tales. He used his alchemy to take away his friend Bren’s fear.
+
+> ⚖ **Sources disagree.** In the *Kori tales*, “Morrowed” and “Unmorrowed” turn into slurs after the Konnor Case. *Variegated* has the word already whispered about Aldos as a child.
+
+* Bruno Podrigo
+
+Aldos’s older brother, born with magic in a family that had none. Gone after the unspoken event that took their parents.
+
+* Bren Malric
+
+A student on the Rune Knight path, taught by his mother to fight “like part of the ground”; his signature throw is the **Meteor Loop**. After Meli’s death he learned Aldos had taken his fear, and left Ranlean to become a knight.
+
+* Meli Salwen
+
+A half-elven illusionist with pale gold hair, whom Aldos privately called “Miss Shimmer”. Lead Illusionist of the Celestial Array; she died shielding its audience. She left an ill mother behind.
+
+* Lucien Darkwater
+
+The youngest and brightest Councilor of Ranlean, of the Darkwater family. He named a grant for Meli Salwen while refusing aid to her mother.
 
 ### The Powerful Gods
 
@@ -4862,7 +5253,7 @@ Races are born from entities and inherit their traits. **Structures** built by r
 
 ### The Caerne's March
 
-*A medieval fantasy mecha adventure, told by the band's own members.*
+*A medieval fantasy mecha adventure, told by the band's own members.* Act 1 is told in full in [The Caerne’s March, Act 1: The Telandor Savior](sessions/The-Caernes-March-Act-1.md).
 
 **The Caerne** is a mercenary band headed by **Yarl**. It is very old: Herald Anna says it existed long before Yarl led it, and some people have heard of the band, or of Yarl. The band votes on every initiate. Under Yarl it takes odd work: vanguard jobs for scholars over better-paying contracts, solo day jobs for coppers, ten hours a day of digging up old junk for "braniacs" at 30 gold when 200 was on offer. That made enemies inside the band.
 
@@ -4872,7 +5263,7 @@ Races are born from entities and inherit their traits. **Structures** built by r
 - **The Herald Anna.** An elf woman, the band's bard and spokesperson, who finds missions through noble contacts. Platinum-blonde, pale and waifish, she speaks as little as possible, and is prejudiced against orcs, as is common among elves. A few seconds before she speaks, those looking at her hear the world go quiet and her voice swell (**auditory masking**). She uses illusion to change her looks, writes glowing lines in the air to present information, and is skilled with a disguise kit.
 - **Kaelrith, "Kayla."** An Owlkin caster with white feathers, potentially a teenager. She formally wears white robes with the Church of the First's symbol. Quiet, awkward and blunt at first; she loves books and music and once left an outing to hear her favourite bard. She was seen carrying a **human finger preserved in yellow oil**, and when asked, no one in camp knows anything about it. She talks to Yarl like a childhood friend.
 - **Hawk**, a Leovar scout who goes ahead before every deployment. "Every silver counts."
-- **Onager.** A 6'8" half-orc, 235 pounds, a former **City Watch investigator** who ran afoul of corrupt bureaucrats in a big city and turned mercenary. He fights unarmed and sees in the dark. "It's not enough to know it all; you have to be accurate."
+- **Onager.** A 6'8" half-orc, 235 pounds, a former **City Watch investigator** who ran afoul of corrupt bureaucrats in a big city and turned mercenary. He fights unarmed and sees in the dark. For the march to the princess’s rescue, Yarl gave him a big horse of his own, which Onager named **Frostfoot**. "It's not enough to know it all; you have to be accurate."
 - **Iron-Tail.** A black-furred **Nezzari** (ratfolk, to outsiders), proud of her groomed fur, muscular from years planting lotus seeds in the swamp. Raised by heretical but loving iconoclast parents, she was never pious enough to rise in the Nezzari hierarchy and was content to farm and scavenge. Then a **monstrous beast with acid saliva** rampaged through her village, and she drove it off with nothing but a shovel. Knighted for it, she found the burden strangely comfortable: in a world without gods, she believes, heroes are needed most. She is a paladin of the **Oath of the Mech Rider** and a part-time engineer with a knack for machines.
 - **Dr. Derby Chadwick Merriweather.** An eccentric, unstable and undeniably brilliant medic in his early forties: clean-shaven, short neat hair, small round spectacles, and a long white overcoat over studded leather and an apron. His big weathered gloves are permanently stained with dried blood, and he moves with quiet precision, never without a sturdy leather suitcase and a backpack full of tools. Nobles with rare or incurable diseases seek him as a last resort; his cures are infamous for being unconventional and often grotesque. He chose the battlefield because it asks fewer questions of his experiments, and there he tends the wounded with genuine care and twisted curiosity in equal measure. Once an **Azulan field medic**, his unit was abandoned in Red Kingdom territory, and he knows first-hand the monstrous force of his old comrades. The Azulan Army was not evil, he says: they healed who they could, and in the chaos of triage he even healed **Etan Pendragon**. He hid all his soldier's gear except his **cavalry rapier**, light, dense steel; the only tell is the hilt, carved with a gemstone, with a lanyard hole where a deep-blue tassel used to hang.
 - **Jenna Flame Dancer.** An Emberkin woman, once a carnival knife thrower ("a Fire Dancer"). Her family came through a portal with other Emberkin long ago, and her people use Pyroveil to keep from burning everything around them. Shy at first, bubbly once comfortable, silly and a little dense; she wears disguises for fun and once left a scorched imprint of her rear on a tavern bench. She cannot read. With her share of 12,000 gold, she planned to return home.
@@ -4895,6 +5286,8 @@ On a princess-rescue contract organised by Anna, the band cleared a goblin cave 
 It is a titan in the shape of a knight frame, 10 feet tall, big enough for Iron-Tail to stand in, and appears to be **elvish technology from thousands of years ago**. Iron-Tail named it the **Telandor Savior**: "Telandor" is Elvish for *iron*, and "Savior" means just that in Common.
 
 The band split on it. Anna said keep it and learn it; Hawk said sell it to the Aethermancers; Kaelrith said it was too big and would slow them down; Jenna said find someone to teach them; the princess called it "a knight in shining armour for a whole town". Yarl kept it hidden in the treeline, and the princess went home first.
+
+In modern Elvish its full name is **Telandor Valarûn**, a title that holds the Iron Giant, the Great One and Protector of Strength all at once. *Telrassë*, Elvish for “Iron-Tail”, was offered too. The band split the difference: **Telandor Savior**.
 
 #### The 'Disbanding'
 
@@ -4925,6 +5318,8 @@ Kavik handed his patron connection to his six-year-old son, **Kazka**, believing
 #### Kazka and his Friends, Later
 
 Kazka at 38 is a cranky paladin of Petrichor who soaks at the **Aralon Hot Springs** and keeps a daily memento mori. **Fumir** left his side, partly tired of that inconsistent life; she later returned as a diplomat for another Infernling group, and had become a symbol of hope because of the deaths she saw while with Kazka. Some say she has something to do with the Azul Empire.
+
+![The Aralon Hot Springs](images/aralon/aralon-hot-springs-3200x1800.webp)
 
 **Candor Nockcrest** is a half-elven rogue of noble birth, familiar with the elves and their history since he is half one.
 
@@ -5051,6 +5446,7 @@ Calendar: Satur 19 Septum 3020 → Satur 3 Octor → Tus 6 Octor (consistent wit
 - **S18** one-shots (planned). **S19 Xantara**: Scale Seekers hunt a rotting white wyrmling. **S20**: Ramssess & Rahjers, desert dragon (Warren's brown dragon steed).
 
 #### 3f. Kori arc: Rot Wizard origin (sessions 20JA2–24JA6, after Scorched Earth, IRL late 2022?)
+- **Before the Kori arc** (*Variegated*): Aldos Podrigo’s years at the Meridian Institute; the Celestial Array disaster kills Meli Salwen; the Council funds an Unmorrowed Research Laboratory; Bren Malric leaves Ranlean.
 - **20JA2 Kori**: Ranlean; Kori + Raq; brother Konnor (Konnor) turned monster by parasite; **Dr. Podrigo** reveals plague vs magic users ("Morrowed" vs "Unmorrowed") → **birth of the Rot Wizard**.
 - **21JA3**: Konnor kills **Saint Michael**; Raq gains RAINE gear; follow Konnor to Aralon ("Salt Flats town" ⚖ elsewhere agricultural); St. Rafael (on wings).
 - **22JA4 Bruno**: Podrigo's brother; cure = Dhampicillin + a soul.
